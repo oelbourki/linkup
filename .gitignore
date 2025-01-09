@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+data_logs/
+logs/
+.chroma
 # Distribution / packaging
 .Python
 build/
