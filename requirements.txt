@@ -1,1 +1,7 @@
-requirements.txt
+streamlit
+flask
+sentence-transformers
+chromadb
+requests
+beautifulsoup4
+nltk
