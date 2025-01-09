@@ -64,4 +64,4 @@ if __name__ == "__main__":
     )
 
     args = parser.parse_args()
-    main(use_saved=args.use_saved)
+    main(use_saved=args.use_scrape)
