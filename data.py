@@ -14,7 +14,7 @@ from utils import (
 setup_logging()
 
 
-def main(use_saved: bool):
+def main(use_scrape: bool):
     # Configuration
     archive_url = "https://www.public.fr/"
 
@@ -64,4 +64,4 @@ if __name__ == "__main__":
     )
 
     args = parser.parse_args()
-    main(use_saved=args.use_scrape)
+    main(use_scrape=args.use_scrape)
