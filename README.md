@@ -1,6 +1,6 @@
-# LinkUp
+# Gossip Semantic Search app
 
-LinkUp is a news retrieval application designed to scrape, embed, and search news articles efficiently using cutting-edge NLP models. It supports French language processing and provides a streamlined user experience through its Flask API and Streamlit UI.
+Gossip Semantic Search app is a news retrieval application designed to scrape, embed, and search news articles efficiently using cutting-edge NLP models. It supports French language processing and provides a streamlined user experience through its Flask API and Streamlit UI.
 
 ## Installation
 
